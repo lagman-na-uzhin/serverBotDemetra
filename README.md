@@ -60,7 +60,7 @@ This bot can send messages to your telegram id
  2. Send to your new bot command /start
  3. Clone bot to server
 ```sh
-cd $HOME && git clone -v https://github.com/ama31337/serverbot.git && cd ./serverbot && chmod +x ./installsbot.sh
+cd $HOME && git clone -v https://github.com/lagman-na-uzhin/serverBotDemetra.git && cd ./serverbot && chmod +x ./installsbot.sh
 ```
  4. Open ./config.py and insert your bot API and your telegram id.
  5. Run script ./installsbot.sh for Ubuntu/Debian and ./installsbot_centos.sh for CentOS, source your bash or zsh to make bot start/stop commands working
